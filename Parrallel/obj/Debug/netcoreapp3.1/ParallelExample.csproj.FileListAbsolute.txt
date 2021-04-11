@@ -1,0 +1,12 @@
+C:\Users\boich\source\repos\Parrallel\Parrallel\bin\Debug\netcoreapp3.1\ParallelExample.exe
+C:\Users\boich\source\repos\Parrallel\Parrallel\bin\Debug\netcoreapp3.1\ParallelExample.deps.json
+C:\Users\boich\source\repos\Parrallel\Parrallel\bin\Debug\netcoreapp3.1\ParallelExample.runtimeconfig.json
+C:\Users\boich\source\repos\Parrallel\Parrallel\bin\Debug\netcoreapp3.1\ParallelExample.runtimeconfig.dev.json
+C:\Users\boich\source\repos\Parrallel\Parrallel\bin\Debug\netcoreapp3.1\ParallelExample.dll
+C:\Users\boich\source\repos\Parrallel\Parrallel\bin\Debug\netcoreapp3.1\ParallelExample.pdb
+C:\Users\boich\source\repos\Parrallel\Parrallel\obj\Debug\netcoreapp3.1\ParallelExample.AssemblyInfoInputs.cache
+C:\Users\boich\source\repos\Parrallel\Parrallel\obj\Debug\netcoreapp3.1\ParallelExample.AssemblyInfo.cs
+C:\Users\boich\source\repos\Parrallel\Parrallel\obj\Debug\netcoreapp3.1\ParallelExample.csproj.CoreCompileInputs.cache
+C:\Users\boich\source\repos\Parrallel\Parrallel\obj\Debug\netcoreapp3.1\ParallelExample.dll
+C:\Users\boich\source\repos\Parrallel\Parrallel\obj\Debug\netcoreapp3.1\ParallelExample.pdb
+C:\Users\boich\source\repos\Parrallel\Parrallel\obj\Debug\netcoreapp3.1\ParallelExample.genruntimeconfig.cache

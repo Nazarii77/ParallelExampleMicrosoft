@@ -1,0 +1,13 @@
+C:\Users\boich\source\repos\Parrallel\Parrallel\bin\Debug\netcoreapp3.1\Parrallel.exe
+C:\Users\boich\source\repos\Parrallel\Parrallel\bin\Debug\netcoreapp3.1\Parrallel.deps.json
+C:\Users\boich\source\repos\Parrallel\Parrallel\bin\Debug\netcoreapp3.1\Parrallel.runtimeconfig.json
+C:\Users\boich\source\repos\Parrallel\Parrallel\bin\Debug\netcoreapp3.1\Parrallel.runtimeconfig.dev.json
+C:\Users\boich\source\repos\Parrallel\Parrallel\bin\Debug\netcoreapp3.1\Parrallel.dll
+C:\Users\boich\source\repos\Parrallel\Parrallel\bin\Debug\netcoreapp3.1\Parrallel.pdb
+C:\Users\boich\source\repos\Parrallel\Parrallel\obj\Debug\netcoreapp3.1\Parrallel.csprojAssemblyReference.cache
+C:\Users\boich\source\repos\Parrallel\Parrallel\obj\Debug\netcoreapp3.1\Parrallel.AssemblyInfoInputs.cache
+C:\Users\boich\source\repos\Parrallel\Parrallel\obj\Debug\netcoreapp3.1\Parrallel.AssemblyInfo.cs
+C:\Users\boich\source\repos\Parrallel\Parrallel\obj\Debug\netcoreapp3.1\Parrallel.csproj.CoreCompileInputs.cache
+C:\Users\boich\source\repos\Parrallel\Parrallel\obj\Debug\netcoreapp3.1\Parrallel.dll
+C:\Users\boich\source\repos\Parrallel\Parrallel\obj\Debug\netcoreapp3.1\Parrallel.pdb
+C:\Users\boich\source\repos\Parrallel\Parrallel\obj\Debug\netcoreapp3.1\Parrallel.genruntimeconfig.cache

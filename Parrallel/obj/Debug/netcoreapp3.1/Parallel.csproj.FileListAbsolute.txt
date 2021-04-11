@@ -1,0 +1,3 @@
+C:\Users\boich\source\repos\Parrallel\Parrallel\obj\Debug\netcoreapp3.1\Parallel.AssemblyInfoInputs.cache
+C:\Users\boich\source\repos\Parrallel\Parrallel\obj\Debug\netcoreapp3.1\Parallel.AssemblyInfo.cs
+C:\Users\boich\source\repos\Parrallel\Parrallel\obj\Debug\netcoreapp3.1\Parallel.csproj.CoreCompileInputs.cache
